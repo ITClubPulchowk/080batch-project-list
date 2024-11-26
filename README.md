@@ -1,5 +1,5 @@
-# XYZbatch-project-list
-List of college projects by undergraduates from XYZ Batch, Pulchowk Campus. 
+# 080batch-project-list
+List of college projects by undergraduates from 080 Batch, Pulchowk Campus. 
 
 ---
 
