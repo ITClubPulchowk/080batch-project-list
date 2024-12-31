@@ -4,7 +4,7 @@ List of college projects by undergraduates from 080 Batch, Pulchowk Campus.
 ---
 
 ## C Programming Project
-* 
+*[Supermarket billing System](https://github.com/Anish06203/C-Project.git) -@bigyanaa (bel021) -@anish06203(bel013)
 
 ---
 
@@ -14,7 +14,7 @@ List of college projects by undergraduates from 080 Batch, Pulchowk Campus.
 ---
 
 ## Object Oriented Programming in Python Project
-*[Tik-Tak-Toe](https://github.com/bigyanaa/Python-project.git) - @bigyanaa (bel021)
+*[Tik-Tak-Toe](https://github.com/bigyanaa/Python-project.git) - @bigyanaa (bel021) @anish06203 (bel013)
 
 ---
 
